@@ -1,3 +1,4 @@
+package Next;
 public class Max{
     public static void main(String[] args){
         int A[]={12,23,43,23};
